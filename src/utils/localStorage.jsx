@@ -197,7 +197,7 @@ export const setLocalStorage = () => {
         taskCounts: { active: 1, completed: 1, failed: 0, new: 1 },
       },
     ];
-    localStorage.setItem("employees", JSON.stringify(defaultEmployees));
+    localStorage.setItem("employees", JSON.stringify(employees));
   }
   if (!localStorage.getItem("admin")) {
     const admin = [
