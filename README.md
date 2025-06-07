@@ -1,8 +1,77 @@
-# React + Vite
+# 🧑‍💼 Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional, responsive Employee Management System built with **React**, **Tailwind CSS**, and **Context API**. This project demonstrates key frontend concepts such as global state management, component structuring, local storage handling, and dynamic UI updates — all hosted and live!
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Click here to view the app](https://employee-management-system-ten-gold.vercel.app)  
+
+---
+
+## ✨ Features
+
+- 🔐 Login functionality for both **Admin** and **Employee**
+- 📊 Role-based dashboards with custom data views
+- 📝 Task management (Create, View, Track status)
+- 💾 Data persistence using **localStorage**
+- 🎯 Clean and minimal UI with **Tailwind CSS**
+- 📱 Mobile-responsive design
+- ⚛️ Global state management using **React Context API**
+
+---
+
+## 🧪 Demo Credentials
+
+### 👨‍💼 Admin Login
+- Email: `kiran@example.com`
+- Password: `123`
+
+### 👩‍💻 Employee Logins
+- Email: `rahul@example.com` / `priya@example.com` / `amit@example.com` / `anita@example.com` / `rohit@example.com`
+- Password: `123`
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind CSS
+- **State Management:** Context API
+- **Storage:** localStorage (browser-based)
+- **Deployment:** Vercel
+
+---
+
+## 📂 Folder Structure
+├── public/
+├── src/
+│ ├── components/
+│ ├── context/
+│ ├── utils/
+│ ├── App.jsx
+│ └── index.js
+├── package.json
+└── README.md
+
+
+---
+
+## 💡 Future Improvements
+
+- Add user registration and authentication (Firebase/Auth0)
+- Integrate backend database (MongoDB/Firebase)
+- Add task filters, sorting, and search functionality
+- Add email notification system for assigned tasks
+
+---
+
+## 🙋‍♂️ Author
+
+**Sahil Tyagi**  
+📧 [LinkedIn](https://www.linkedin.com/in/sahil-tyagi-716527242/)
+
+---
+
+## 🧾 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
