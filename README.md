@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee Management System (EMS)
+# 🧑‍💼 Managezy - Employee Management System (EMS)
 
 A fully functional, responsive Employee Management System built with **React**, **Tailwind CSS**, and **Context API**. This project demonstrates key frontend concepts such as global state management, component structuring, local storage handling, and dynamic UI updates — all hosted and live!
 
